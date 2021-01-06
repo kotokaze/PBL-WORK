@@ -4,6 +4,5 @@ numpy==1.19.4
 opencv-python==4.5.1.48
 playsound==1.2.2
 pycodestyle==2.6.0
-python-vlc==3.0.11115
 scipy==1.6.0
 toml==0.10.2
